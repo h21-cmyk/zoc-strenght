@@ -1,0 +1,17 @@
+{
+  "name": "Zoc Strength",
+  "short_name": "Zoc Strength",
+  "description": "Mon suivi de musculation : programme, séance du jour et progression.",
+  "lang": "fr",
+  "start_url": "./#seance",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0A0A0C",
+  "theme_color": "#0A0A0C",
+  "icons": [
+    {"src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png"},
+    {"src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
